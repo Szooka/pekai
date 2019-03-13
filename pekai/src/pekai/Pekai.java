@@ -14,7 +14,10 @@ public class Pekai extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        launch(args);
+        System.out.println("Wynik 2+3 =" +Policz(2,3));
     }
-    
+    public static int Policz(int a, int b)
+    {
+        return a+b;
+    }
 }
