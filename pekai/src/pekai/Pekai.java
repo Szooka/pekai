@@ -9,7 +9,7 @@ package pekai;
 /**
  * @author 209477
  */
-public class Pekai extends Application {
+public class Pekai {
     /**
      * @param args the command line arguments
      */
